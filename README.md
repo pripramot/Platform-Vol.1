@@ -14,20 +14,27 @@
 
 ### ฉันคือคนไทย
 
-**1.** git add .
+**1.** เพิ่ม คอมไพล์ .
  
 ```
 git add . 
 ```
 
-**2.** Commit your changes .
+**2.** ให้สัญญา การเปลี่ยนแปลง ของคุณ .
 
 ```
-git commit -m "Relevant message"
+git commit -m "ข้อความอธิบายการคอมมิต"
 ```
 
-**3.** Push the committed changes in your feature branch to your remote repo.
+**3.** ผลักดัน การเปลี่ยนแปลง ไปยัง ที่เก็บ ระยะไกล. ในสาขาฟีเจอร์ของคุณ
+
+```
+git push origin main
+```
+
+**หมายเหตุ.** สไตล์ลิส ที่ต่างกัน การเปลี่ยนแปลง ไปยัง ที่เก็บ ระยะไกล.  เเทนที่ <your_branch_name> สาขาฟีเจอร์ ของคุณ
 
 ```
 git push -u origin <your_branch_name>
 ```
+
