@@ -2,4 +2,4 @@
 
 
 ### ตัวเลือก 5 โปรแกรม ใช้งานพื้นฐานได้ฟรี
-![01ai-agate](./images/01ai-agate.png)]
+![01ai-agate](./images/01ai-agate.png)
