@@ -48,7 +48,11 @@
 
 
 
-###  <p align="center">รายละเอียด โปรแกรม
+###  <p align="center">About รายละเอียดโปรแกรม
+
+
+For more information about the project, see [ABOUT.md](ABOUT.md).
+
 
 
 ---
