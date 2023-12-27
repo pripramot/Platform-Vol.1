@@ -48,10 +48,11 @@
 
 
 
-###  <p align="center">About รายละเอียดโปรแกรม
+###  <p align="center">สำหรับข้อมูลเพิ่มเติมเกี่ยวกับโครงการ โปรดดูที่[ABOUT.md](ABOUT.md).
 
 
-For more information about the project, see [ABOUT.md](ABOUT.md).
+
+
 
 
 
